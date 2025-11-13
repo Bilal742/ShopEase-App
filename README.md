@@ -58,8 +58,8 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 2. **Install Dependencies:**
    ```bash
    npm install
-  # or
-     yarn
+   or
+   yarn
 ---
 
 3. **Run Locally:**
