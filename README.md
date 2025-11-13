@@ -14,7 +14,9 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 
 ## 🌐 Live Demo
 
-[🔗 View Live Demo](https://your-live-demo-link.com)  
+🎯 **Check out the live application:**  
+
+[![Visit Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://ishop-ease-app.vercel.app/)
 
 ---
 
@@ -48,16 +50,26 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Setup Instructions
 
-### Prerequisites
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Bilal742/ShopEase-App.git
+2. **Install Dependencies:**
+   ```bash
+   npm install
+  # or
+     yarn
+---
 
-- Node.js >= 18  
-- npm or yarn  
+3. **Run Locally:**
+   ```bash
+   npm run dev
+---
 
-### Installation
+## 👨‍💻 Developer
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/<your-username>/shop-ease-nextjs.git
-
+**Muhammad Bilal**  
+📧 [bilalusman1291@gmail.com](mailto:bilalusman1291@gmail.com)  
+🌐 [Portfolio](https://imuhammadbilal.vercel.app/)  
+🐙 [GitHub](https://github.com/Bilal742)
