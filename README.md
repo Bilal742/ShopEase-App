@@ -4,7 +4,9 @@
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue?logo=tailwind-css&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?logo=typescript&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 A **responsive e-commerce web application** built with **Next.js**, **React**, and **Tailwind CSS** using the **FakeStore API**.  
 Browse products, view product details, and enjoy a **clean and modern UI**.  
