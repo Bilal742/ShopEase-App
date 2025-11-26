@@ -59,7 +59,7 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
    
    ```bash
    npm run dev
-   or
+   or 
    yarn dev
 
 ---
